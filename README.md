@@ -3,4 +3,9 @@
 - 💕 Passionate about Education and Technology
 - 🔭 Currently working and learning about all things Java
 
-<img src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
+<a href="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
+  <img width=45% align="center" src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=44% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviravaladez&layout=compact&theme=nightowl">
+</a>
