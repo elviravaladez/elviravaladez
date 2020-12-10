@@ -3,6 +3,4 @@
 - 💕 Passionate about Education and Technology
 - 🔭 Currently working and learning about all things Java
 
-<p align="center">
-  <img src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
-</p>
+<img src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
