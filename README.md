@@ -6,6 +6,6 @@
 <a href="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
   <img width=50% align="center" src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=elviravaladez&layout=compact&theme=nightowl">
   <img width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviravaladez&layout=compact&theme=nightowl">
 </a>
