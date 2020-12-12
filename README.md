@@ -1,4 +1,9 @@
-<h2 align="center">Welcome friend, I'm Elvira! 👋 </h2>
+<p align="center">
+  <img src="welcome-banner.gif" alt="Welcome, friend!" />
+</p>
+
+<h1 align="center">I'm Elvira </h1>
+
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
