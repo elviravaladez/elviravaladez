@@ -1,8 +1,3 @@
-<p align="right">
-  <a href="https://linkedin.com/in/elviravaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elviravaladez" height="30" width="40" /></a>
-  <a href="https://twitter.com/msevaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msevaladez" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">Welcome friend, I'm Elvira! 👋 </h2>
 <p align="center">
   👩🏻‍💻 Software Developer<br>
@@ -32,4 +27,12 @@
   <a href="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
     <img height=175 width=49% align="center" src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
   </a>
+</p>
+
+---
+
+<h3 align="center">Let's Connect! </h3>
+<p align="center">
+  <a href="https://linkedin.com/in/elviravaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elviravaladez" height="30" width="40" /></a>
+  <a href="https://twitter.com/msevaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msevaladez" height="30" width="40" /></a>
 </p>
