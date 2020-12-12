@@ -39,6 +39,6 @@
 
 <h3 align="center">Let's Connect! </h3>
 <p align="center">
-  <a href="https://linkedin.com/in/elviravaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elviravaladez" height="30" width="40" /></a>
-  <a href="https://twitter.com/msevaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msevaladez" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/elviravaladez" title="elviravaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elviravaladez" height="30" width="40" /></a>
+  <a href="https://twitter.com/msevaladez" title="@msevaladez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="msevaladez" height="30" width="40" /></a>
 </p>
