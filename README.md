@@ -2,7 +2,7 @@
   <img src="welcome-banner.png" alt="Welcome, friend!" />
 </p>
 
-<h1 align="center">I'm Elvira </h1>
+<h1 align="center">I'm Elvira 👋</h1>
 
 <p align="center">
   👩🏻‍💻 Software Developer<br>
