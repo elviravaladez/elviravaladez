@@ -1,4 +1,4 @@
-<h3 align="center">Welcome friend, I'm Elvira! 👋 </h3>
+<h2 align="center">Welcome friend, I'm Elvira! 👋 </h2>
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
