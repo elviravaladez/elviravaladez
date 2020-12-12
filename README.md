@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="welcome-banner.gif" alt="Welcome, friend!" />
+  <img src="welcome-banner.png" alt="Welcome, friend!" />
+  <br>
+  <img height=150 src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" alt="Hand Waving" />
 </p>
-
 <h1 align="center">I'm Elvira </h1>
 
 <p align="center">
