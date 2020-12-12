@@ -1,6 +1,6 @@
-<h3 align="center">Welcome, friend! 👋 My name is Elvira.</h3>
+<h3 align="center">Welcome friend, I'm Elvira! 👋 </h3>
 <p align="center">
-  👩🏻‍💻 I'm a Software Developer<br>
+  👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
   🔭 Currently working and learning about all things Java
 </p>
