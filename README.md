@@ -23,10 +23,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
+    <img height=175 width=49% align="center" src="https://github-readme-stats.elviravaladez.vercel.app/api?username=elviravaladez&show_icons=true&theme=nightowl">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviravaladez&layout=compact&theme=nightowl" />
+  <img height=175 width=47% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviravaladez&layout=compact&theme=nightowl" />
   </a>
 </p>
 
