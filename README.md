@@ -23,7 +23,7 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="img/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> 
   <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="img/java-logo.png" alt="java" width="30" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="img/mysql-logo.png" alt="mysql" width="50" height="40"/> </a> 
 </p>
 
 ---
