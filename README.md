@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently working and learning about all things MySQL
+  🔭 Currently working and learning about all things Java
 </p>
 
 ---
