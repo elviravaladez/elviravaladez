@@ -21,7 +21,6 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="img/intellij-idea.png" alt="intellij-IDEA" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="img/java-logo.png" alt="java" width="30" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="img/mysql-logo.png" alt="mysql" width="50" height="40"/> </a>
 </p>
