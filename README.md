@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently working on a Full-Stack Java application alongside a wonderful team of developers
+  🔭 Currently working on a Full-Stack Java application alongside a wonderful team of Developers
 </p>
 
 ---
