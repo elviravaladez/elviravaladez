@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently learning about JUnit and React
+  🔭 Currently learning JUnit and React
 </p>
 
 ---
