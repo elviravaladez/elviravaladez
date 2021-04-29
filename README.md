@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently exploring React
+  🔭 Currently exploring React and Python
 </p>
 
 ---
