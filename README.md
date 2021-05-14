@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Developer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently learning Vue
+  🔭 Currently learning Vue.js
 </p>
 
 ---
