@@ -5,7 +5,7 @@
 <h1 align="center">I'm Elvira</h1>
 
 <p align="center">
-  👩🏻‍💻 Software Developer<br>
+  👩🏻‍💻 Software Engineer<br>
   💕 Passionate about Education and Technology<br>
   🔭 Currently learning Vue.js
 </p>
