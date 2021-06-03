@@ -7,7 +7,8 @@
 <p align="center">
   👩🏻‍💻 Software Engineer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently learning about the "weird" parts of JavaScript with [Anthony Alicea](https://www.udemy.com/course/understand-javascript/#instructor-1).
+  🔭 Currently learning about the "weird" parts of JavaScript with <a href="https://www.udemy.com/course/understand-javascript/#instructor-1" target="_blank">Anthony Alicea</a>.
+
 </p>
 
 ---
