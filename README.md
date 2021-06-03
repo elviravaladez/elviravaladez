@@ -7,7 +7,7 @@
 <p align="center">
   👩🏻‍💻 Software Engineer<br>
   💕 Passionate about Education and Technology<br>
-  🔭 Currently exploring JavaScript
+  🔭 Currently learning about the "weird" parts of JavaScript with Anthony Alicea
 </p>
 
 ---
